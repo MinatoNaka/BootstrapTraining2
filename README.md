@@ -10,11 +10,11 @@ https://jin-demo.jp/demo-2/
 bootstrapに追加した。  
   
 ```
-"green": #3e8691,
-"yellow": #ffcd44,
-"offwhite": #fffefc,
-"brown": #60605a,
-"purple": #5c51a0
+"custom-green": #3e8691,
+"custom-yellow": #ffcd44,
+"custom-offwhite": #fffefc,
+"custom-brown": #60605a,
+"custom-purple": #5c51a0
 ```
 
 # ビルド

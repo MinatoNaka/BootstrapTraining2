@@ -17,4 +17,4 @@ let mix = require('laravel-mix');
 //     .sass('src/app.scss', 'dist')
 //     .setPublicPath('dist');
 
-mix.sass('src/scss/bootstrap.scss', 'dist/css');
+mix.sass('src/scss/bootstrap.scss', 'dist/build/css');
